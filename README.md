@@ -27,7 +27,7 @@ Sou acadêmico do curso de **Sistemas de Informação** pela **Universidade Fede
 ## Minhas Redes Sociais
 
 - [LinkedIn](https://www.linkedin.com/in/idenildoviana)
-- [Portfólio](https://seu-site.com)
+- [Portfólio](web-site-khaki.vercel.app)
 - [Email](idenildo.cruz@cameta.ufpa.com.br)
 ---
 
