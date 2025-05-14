@@ -1,7 +1,7 @@
 ## Olá. Seja Bem-Vindo!
 
 <div align="center">
-  <img src="https://github.com/idenildoviana/idenildoviana/blob/main/github-header-image.png" alt="Banner">
+  <img src="https://github.com/idenildoviana/idenildoviana/blob/main/banner.png" alt="Banner">
 </div>
 <br/>  
 
